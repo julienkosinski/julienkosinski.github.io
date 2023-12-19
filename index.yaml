@@ -3,118 +3,118 @@ entries:
   opensearch-cluster:
   - apiVersion: v2
     appVersion: 2.4.1
-    created: "2023-12-19T22:07:37.7014389+01:00"
+    created: "2023-12-19T22:11:58.4361549+01:00"
     description: A Helm chart for OpenSearch Cluster
     digest: 57264616d1722bb05bd15d1e0d78b92d9bad14b3d15b8d9f0bfeac055b6cb7d9
     name: opensearch-cluster
     type: application
     urls:
-    - opensearch-cluster-2.4.1.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-cluster-2.4.1.tgz
     version: 2.4.1
   - apiVersion: v2
     appVersion: 2.4.0
-    created: "2023-12-19T22:07:37.7014389+01:00"
+    created: "2023-12-19T22:11:58.4356401+01:00"
     description: A Helm chart for OpenSearch Cluster
     digest: b463724fa756d3f31c001b0c1040e3388a0a65a1dd12fe9a5c731c6727105287
     name: opensearch-cluster
     type: application
     urls:
-    - opensearch-cluster-2.4.0.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-cluster-2.4.0.tgz
     version: 2.4.0
   opensearch-operator:
   - apiVersion: v2
     appVersion: 2.4.1
-    created: "2023-12-19T22:07:37.7094378+01:00"
+    created: "2023-12-19T22:11:58.4447946+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: 2baade5aa3651d8cde4309eec5b055d0ea6f488e9a8eb9a0a887cc6014504f91
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.4.1.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.4.1.tgz
     version: 2.4.1
   - apiVersion: v2
     appVersion: 2.4.0
-    created: "2023-12-19T22:07:37.7084342+01:00"
+    created: "2023-12-19T22:11:58.4429436+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: 14db08ff99048a0e48516a09bacd17ceb152c7ca291c4b63674757691993f037
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.4.0.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.4.0.tgz
     version: 2.4.0
   - apiVersion: v2
     appVersion: 2.3.2
-    created: "2023-12-19T22:07:37.7069312+01:00"
+    created: "2023-12-19T22:11:58.4417996+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: 77d01cd355ccd4e1a92f743085dbb40a662e1e5e8c8acfa753c55fffe3c8fafb
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.3.2.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.3.2.tgz
     version: 2.3.2
   - apiVersion: v2
     appVersion: 2.3.1
-    created: "2023-12-19T22:07:37.7069312+01:00"
+    created: "2023-12-19T22:11:58.4412693+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: ec767a99b88d99409f85fc39f2f8cbbb746580f565586c0cf473fbe2f739e924
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.3.1.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.3.1.tgz
     version: 2.3.1
   - apiVersion: v2
     appVersion: 2.3.0
-    created: "2023-12-19T22:07:37.7059452+01:00"
+    created: "2023-12-19T22:11:58.4401507+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: abf5ed49c2ee844a3680cd1f0ab6a4a4eb9c2daa6b7b1a5ba33ec948b6ddea3e
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.3.0.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.3.0.tgz
     version: 2.3.0
   - apiVersion: v2
     appVersion: 2.2.1
-    created: "2023-12-19T22:07:37.7049419+01:00"
+    created: "2023-12-19T22:11:58.4395481+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: 0e552d08fd7b52d15989f5783783288f5081813a771a5888a3d07596067d06d4
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.2.1.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v2
     appVersion: 2.2.0
-    created: "2023-12-19T22:07:37.7034389+01:00"
+    created: "2023-12-19T22:11:58.4384163+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: 93bd2cd65658aa82a332af372f09edcbe2cc025f7a774a10e6a02807e1af375a
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.2.0.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
     appVersion: 2.1.1
-    created: "2023-12-19T22:07:37.7034389+01:00"
+    created: "2023-12-19T22:11:58.4373364+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: 7f1b44f9328922f9f10bb70b9b892a8bf9698e4c7b555e9b0ef0a2605ed3106a
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.1.1.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2023-12-19T22:07:37.702439+01:00"
+    created: "2023-12-19T22:11:58.436767+01:00"
     description: The OpenSearch Operator Helm chart for Kubernetes
     digest: 7b92e94e18dd1ca5d3d4cc1d13f23b695d6be423f49063465a5bd991240716f4
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-2.1.0.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
     appVersion: v1.0
-    created: "2023-12-19T22:07:37.7114367+01:00"
+    created: "2023-12-19T22:11:58.446334+01:00"
     description: A Helm chart for Kubernetes OpenSearch Operator
     digest: 6559112a34e2a23096bd16b941e3d971a9b3930cb46259f69bd6bf8ec9f9d3f8
     home: https://github.com/Opster/opensearch-k8s-operator
@@ -129,21 +129,21 @@ entries:
     - https://github.com/Opster/opensearch-k8s-operator-chart
     type: application
     urls:
-    - helm/opensearch-operator-v1.0.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/helm/opensearch-operator-v1.0.tgz
     version: v1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-19T22:07:37.702439+01:00"
+    created: "2023-12-19T22:11:58.4361549+01:00"
     description: A Helm chart for Kubernetes
     digest: 54e8eb0a54663fbb0fca0a399647f59b23ed8fd4a7c95fd81afb48af7c2083d3
     name: opensearch-operator
     type: application
     urls:
-    - opensearch-operator-0.1.0.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/opensearch-operator-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.0.9
-    created: "2023-12-19T22:07:37.7104369+01:00"
+    created: "2023-12-19T22:11:58.4453005+01:00"
     description: A Helm chart for Kubernetes OpenSearch Operator
     digest: 37dac0a976cfec95b6109db04f36da29a110e0b41b4f8d9dd9ab93833ce0afef
     home: https://github.com/Opster/opensearch-k8s-operator
@@ -158,6 +158,6 @@ entries:
     - https://github.com/Opster/opensearch-k8s-operator-chart
     type: application
     urls:
-    - helm/opensearch-operator-0.0.9.tgz
+    - https://julienkosinski.github.io/opensearch-k8s-operator/helm/opensearch-operator-0.0.9.tgz
     version: 0.0.9
-generated: "2023-12-19T22:07:37.7014389+01:00"
+generated: "2023-12-19T22:11:58.4356401+01:00"
